@@ -715,7 +715,7 @@
       "label": "🔎 Portas TLS"
     },
     "tls_trick": {
-      "label": "TLS Trick"
+      "label": "Truque TLS"
     },
     "too_advanced": {
       "description": "Especifique o caminho do proxy. É importante especialmente se você estiver usando HTTP e VMess",

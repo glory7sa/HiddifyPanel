@@ -731,7 +731,7 @@
       "label": "🔎 TLS 端口"
     },
     "tls_trick": {
-      "label": "TLS Trick"
+      "label": "TLS 技巧"
     },
     "too_advanced": {
       "description": "指定代理路径。如果您使用 HTTP 和 VMess，这一点尤其重要",

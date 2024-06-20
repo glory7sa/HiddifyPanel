@@ -174,7 +174,7 @@
   "ProxyPath is already used! use different proxy path": "ProxyPath уже используется! используйте другой путь прокси",
   "QR code": "🧾 QR-код",
   "QRCode": "<i class='fa-solid fa-qrcode'></i> QR-код",
-  "RAM": "RAM",
+  "RAM": "ОЗУ",
   "REALITY Fallback domain is not compaitble with server names!": "REALITY Fallback Domain несовместим с именами серверов!",
   "Release": "✅ Релиз",
   "Remaining: ": "Пакет заканчивается",
@@ -830,7 +830,7 @@
     },
     "tls_trick": {
       "description": "Конфигурации фрагментации TLS можно настроить в этом разделе",
-      "label": "TLS Trick"
+      "label": "Трюк с TLS"
     },
     "too_advanced": {
       "description": "Укажите путь для Proxy. Это особенно важно, если вы используете HTTP и VMess.",
