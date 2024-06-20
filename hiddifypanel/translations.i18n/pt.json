@@ -714,6 +714,9 @@
       "description": "Inteiros separados por vírgula indicando as portas a serem usadas como conexão TLS (a porta 443 será usada em qualquer caso)",
       "label": "🔎 Portas TLS"
     },
+    "tls_trick": {
+      "label": "TLS Trick"
+    },
     "too_advanced": {
       "description": "Especifique o caminho do proxy. É importante especialmente se você estiver usando HTTP e VMess",
       "label": "Configurações muito avançadas"
@@ -861,7 +864,7 @@
   "singbox: ssh": "caixa de som: ssh",
   "ssh": "SSH",
   "sub_link_only": "📳 Somente para Link de Assinatura (pode ser direto, relé ou CDN)",
-  "telegram": "Telegram",
+  "telegram": "Telegrama",
   "test": "Teste",
   "update": "atualizar",
   "user": {

@@ -194,7 +194,7 @@
   "Restore Settings description": "Восстановить все описания настроек",
   "Restore Users": "👥 Восстановление пользователей",
   "Restore Users description": "Выберите этот вариант, чтобы восстановить всех пользователей",
-  "Root": "Root",
+  "Root": "Администратор",
   "Save": "Сохранить",
   "Save & Add More": "Сохранить и добавить еще",
   "Save Link": "Сохранить ссылку",
@@ -948,11 +948,11 @@
   "ios": "iOS",
   "items": "элементы",
   "lang": {
-    "en": "🇺🇸 English - Английский",
-    "fa": "🇮🇷 Persian - فارسی",
-    "pt": "🇵🇹 Portuguese - پرتغالی",
+    "en": "🇺🇸 Английский",
+    "fa": "🇮🇷 Персидский - فارسی",
+    "pt": "🇵🇹 Португальский - پرتغالی",
     "ru": "🇷🇺 Russian - Русский",
-    "zh": "🇨🇳 Chinese - 简体中文"
+    "zh": "🇨🇳 Китайский  - 简体中文"
   },
   "lib": {
     "telegram": {
@@ -1012,7 +1012,7 @@
   "singbox: ssh": "SingBox: SSH",
   "ssh": "SSH",
   "sub_link_only": "📳 Только для ссылки на подписку (может быть Direct, Relay или CDN)",
-  "telegram": "Telegram",
+  "telegram": "Телеграмма",
   "test": "Тест",
   "update": "обновлять",
   "user": {

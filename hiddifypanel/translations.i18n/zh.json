@@ -730,6 +730,9 @@
       "description": "逗号分隔的整数，指示用作 TLS 连接的端口（在任何情况下都将使用端口 443）",
       "label": "🔎 TLS 端口"
     },
+    "tls_trick": {
+      "label": "TLS Trick"
+    },
     "too_advanced": {
       "description": "指定代理路径。如果您使用 HTTP 和 VMess，这一点尤其重要",
       "label": "非常高级的设置"
